@@ -1,0 +1,23 @@
+.girl{
+  background-image: url('images/beach.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.boy{
+  color: grey;
+  text-align: center;
+}
+p{color: blue;
+  text-align: center;
+}
+article{
+  display:block;
+  margin-bottom: 1em;
+}
+.jin{
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+  align-items: center;
+}
+//*code ne fonction paspour mettre l'image en bloc//
